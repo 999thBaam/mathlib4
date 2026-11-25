@@ -472,6 +472,7 @@ public import Mathlib.Algebra.Group.Semigroup
 public import Mathlib.Algebra.Group.Shrink
 public import Mathlib.Algebra.Group.Subgroup.Actions
 public import Mathlib.Algebra.Group.Subgroup.Basic
+public import Mathlib.Algebra.Group.Subgroup.ConjAut
 public import Mathlib.Algebra.Group.Subgroup.Defs
 public import Mathlib.Algebra.Group.Subgroup.Even
 public import Mathlib.Algebra.Group.Subgroup.Finite
