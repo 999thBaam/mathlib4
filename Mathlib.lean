@@ -5001,6 +5001,7 @@ public import Mathlib.GroupTheory.FiniteIndexNormalSubgroup
 public import Mathlib.GroupTheory.FinitelyPresentedGroup
 public import Mathlib.GroupTheory.Finiteness
 public import Mathlib.GroupTheory.FixedPointFree
+public import Mathlib.GroupTheory.Fitting
 public import Mathlib.GroupTheory.Focal
 public import Mathlib.GroupTheory.Frattini
 public import Mathlib.GroupTheory.FreeAbelianGroup
